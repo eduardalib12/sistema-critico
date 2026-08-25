@@ -2,13 +2,13 @@ Sistema Critico
 
 Projeto pratico desenvolvido para a disciplina de Gerencia de Configuracao, utilizando Git e GitHub.
 
-\\\
+---
 
 Objetivo
 
 Demonstrar boas praticas de controle de versao, organizacao de branches, commits semanticos, recuperacao de alteracoes e colaboracao remota.
 
-\\\
+---
 
 Tech Stack
 
@@ -17,7 +17,7 @@ Tech Stack
 - JavaScript
 - Windows 10/11
 
-\\\
+---
 
 Funcionalidades
 
@@ -30,7 +30,7 @@ Implementacao inicial da funcionalidade de pagamento via Pix no arquivo pagament
 Hotfix
 Correcao emergencial do trigger do botao de compra no arquivo botao.js.
 
-\\\
+---
 
 Estrutura do projeto
 
@@ -42,7 +42,7 @@ sistema-critico/
 - pagamento-pix.js
 - .env.example
 
-\\\
+---
 
 Como executar
 
@@ -59,7 +59,7 @@ Execute os arquivos JavaScript utilizando Node.js:
 node app.js
 node pagamento-pix.js
 
-\\\
+---
 
 Seguranca
 
@@ -69,7 +69,7 @@ O arquivo .env esta incluido no .gitignore.
 
 O arquivo .env.example serve apenas como modelo de configuracao e nao deve conter credenciais reais.
 
-\\\
+---
 
 Git
 
@@ -79,7 +79,7 @@ Branches utilizadas no projeto:
 - feat/PROJ-101-pagamento-pix
 - hotfix/botao-comprar
 
-\\\
+---
 
 Tag de release:
 
